@@ -12,4 +12,6 @@ Steps:
 4. With the string formatting, updated the RSS url on run-time.(Append days & disease name)
 5. Collect the generated content in a dictionary object, and check for the number of item(s) present.
 6. With a looping & conditional statement, print the title of disease where item is None.
-7. Thus achieving the task objective to determine which disease had no activity for a given number of days.
+7. Created test class to write test cases.
+
+Thus achieving the task objective to determine which disease had no activity for a given number of days.
